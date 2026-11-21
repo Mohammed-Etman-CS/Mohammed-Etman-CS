@@ -1,16 +1,26 @@
-## Hi there 👋
+# Mohamed S Etman
 
-<!--
-**Mohammed-Etman-CS/Mohammed-Etman-CS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+C++ · Python · Databases · Algorithmic Problem Solving
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-s-etman)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Mohammed-Alsayed)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,mysql,git,github,vscode,visualstudio&theme=dark" alt="Tech & Tools" />
+</p>
+
+- **Languages:** C++, Python, SQL
+- **Databases:** MySQL
+- **Tools & IDEs:** Git, GitHub, Visual Studio, VS Code
+
+---
+
+### Focus
+
+- Modular software architecture & Object-Oriented design in C++
+- Algorithmic problem solving on [Codeforces](https://codeforces.com/profile/Mohammed-Alsayed)
+- Relational databases and backend fundamentals with Python
