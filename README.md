@@ -1,4 +1,4 @@
-# Mohamed S Etman
+# Mohamed S. Etman
 
 C++ · Python · Databases · Algorithmic Problem Solving
 
